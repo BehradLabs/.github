@@ -8,7 +8,7 @@ BehradLabs will offer a diverse range of products and services designed to help 
 
 ### 🛠️ Products (Coming soon)
 
-There are a lot of projects that I'm super passionate about and eager to share with you. Be on the lookout at my website [behradfarahani.com](https://behradfarahani.com)
+There are a lot of projects that I'm super passionate about and eager to share with you. Be on the lookout [behradfarahani.com](https://behradfarahani.com)
 
 ---
 
