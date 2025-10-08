@@ -1,7 +1,5 @@
 # Welcome to my passion project. 
 
----
-
 ## 🚀 What you can expect
 
 BehradLabs will offer a diverse range of products and services designed to help anyone evolve through intuitive design.
